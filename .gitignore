@@ -4,7 +4,7 @@ config/*
 
 # project
 project/*
-!project/install
+!project/installer
 
 # release
 release/*
