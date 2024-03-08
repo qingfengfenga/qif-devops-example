@@ -1,0 +1,18 @@
+# config
+config/*
+!config/.gitkeep
+
+# project
+project/*
+!project/install
+
+# release
+release/*
+!release/installer
+!release/installer/.gitkeep
+
+# repository
+repository/*
+!repository/installer
+!repository/installer/.gitkeep
+
